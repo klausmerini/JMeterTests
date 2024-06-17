@@ -1,6 +1,7 @@
 No teste é simulado o acesso de 20 usuários em 10 segundos em um vídeo do youtube, numeo de execuções : infinita.    
-É utilizado um listenerView result tree que exibe os resultados árvore  e em tabela.
-Tempo médio para resposta da requisição : variaram entre 535ms e 11930ms. A média foi de 1623ms  . Exibido na tabela
+É utilizado um listenerView result tree que exibe os resultados árvore  e em tabela.    
+    
+  Tempo médio para resposta da requisição : variaram entre 535ms e 11930ms. A média foi de 1623ms  . Exibido na tabela
 status code : 200   . na aba Sampler    
 O response body e headers está na aba response    
 
