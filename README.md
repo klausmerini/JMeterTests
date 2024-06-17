@@ -1,5 +1,5 @@
 No teste é simulado o acesso de 20 usuários em 10 segundos em um vídeo do youtube, numeo de execuções : infinita.    
-É utilizado um listenerView result tree que exibe os resultados árvore  e em tabela.    
+São utilizados os listeners 'View result tree', e 'View Results bem table. Que são relatórios que exibem os resultados em árvore e em tabela.    
 O response body e response headers estão na aba response.
     
 Tempo médio para resposta da requisição : variaram entre 535ms e 11930ms. A média foi de 1623ms  . Exibido na tabela    
