@@ -2,8 +2,8 @@ No teste é simulado o acesso de 20 usuários em 10 segundos à um vídeo do you
 São utilizados os listeners 'View result tree', e 'View Results in table'. Que são relatórios que exibem os resultados em árvore e em tabela.    
 O response body e response headers estão na aba 'response data' da 'View results tree'.
     
-Tempo médio para resposta da requisição : variaram entre 4ms e 14419ms. A média foi de 2290ms  . Exibidos no 'Summary Rport' 
-Status code : 200   . na aba Sampler Rssult     
+Tempo médio para resposta da requisição : variaram entre 4ms e 14419ms. A média foi de 2290ms  . Exibidos no 'Summary Report'    
+Status code : 200   . na aba Sampler Result     
     
     
 
