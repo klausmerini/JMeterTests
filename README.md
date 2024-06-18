@@ -1,4 +1,4 @@
-No teste é simulado o acesso de 20 usuários em 10 segundos em um vídeo do youtube, numeo de loops : 300.    
+No teste é simulado o acesso de 20 usuários em 10 segundos à um vídeo do youtube. Numeo de loops : 300.    
 São utilizados os listeners 'View result tree', e 'View Results in table'. Que são relatórios que exibem os resultados em árvore e em tabela.    
 O response body e response headers estão na aba 'response data' da 'View results tree'.
     
