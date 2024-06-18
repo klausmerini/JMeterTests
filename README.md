@@ -1,6 +1,7 @@
 No teste é simulado o acesso de 20 usuários em 10 segundos à um vídeo do youtube. Numeo de loops : 300.    
 São utilizados os listeners 'View result tree', e 'View Results in table'. Que são relatórios que exibem os resultados em árvore e em tabela.    
-O response body e response headers estão na aba 'response data' da 'View results tree'.
+O response body e response headers estão na aba 'response data' da 'View results tree'.    
+São gerados também relatórios dos listeners Graph results e aggregate report
     
 Tempo médio para resposta da requisição : variaram entre 4ms e 14419ms. A média foi de 2290ms  . Exibidos no 'Summary Report'    
 Status code : 200   . na aba Sampler Result     
@@ -14,6 +15,6 @@ Status code : 200   . na aba Sampler Result
   ![Captura de tela de 2024-06-17 17-44-53](https://github.com/klausmerini/JMeterTests/assets/109608171/3b55671c-63b3-46cb-b7ce-3391c90a457d)    
 
     É gerado um relatório, pode ser uma planilha .csv    
-Foi criado Assertions    
+Foram criado os Assertions :    
 - Response assertion : para verificar o status code
 - Duration Assertion
