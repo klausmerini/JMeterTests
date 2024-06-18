@@ -20,4 +20,7 @@ Status code : 200   . na aba Sampler Result
     
     Foram criado os Assertions :    
 - Response assertion : para verificar o status code
-- Duration Assertion
+- Duration Assertion : Configurado para um máximo de 10000ms ou 10 segundos.
+  Todas requisições passaram nos testes\assertions
+  Os resultados são exibidos no listener 'Assertion Result'
+  
