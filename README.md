@@ -23,4 +23,4 @@ Status code : 200   . na aba Sampler Result
 - Duration Assertion : Configurado para um máximo de 10000ms ou 10 segundos.
   Todas requisições passaram nos testes\assertions
   Os resultados são exibidos no listener 'Assertion Result'
-  
+![Captura de tela de 2024-06-18 18-52-58](https://github.com/klausmerini/JMeterTests/assets/109608171/847678a1-fb85-4027-af66-69892d7f5dd2)
