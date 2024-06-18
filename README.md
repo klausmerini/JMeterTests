@@ -15,6 +15,9 @@ Status code : 200   . na aba Sampler Result
   ![Captura de tela de 2024-06-17 17-44-53](https://github.com/klausmerini/JMeterTests/assets/109608171/3b55671c-63b3-46cb-b7ce-3391c90a457d)    
 
     É gerado um relatório, pode ser uma planilha .csv    
-Foram criado os Assertions :    
+    
+![Captura de tela de 2024-06-18 18-33-22](https://github.com/klausmerini/JMeterTests/assets/109608171/c6d418d5-7a7a-4833-a118-aa9848635055)    
+    
+    Foram criado os Assertions :    
 - Response assertion : para verificar o status code
 - Duration Assertion
